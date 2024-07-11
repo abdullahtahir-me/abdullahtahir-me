@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahtahir-me" alt="abdullahtahir-me" /></a> </p>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **C Languae**
 
