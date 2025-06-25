@@ -4,8 +4,7 @@
 I'm a developer who loves building efficient, user-friendly web applications. I specialize in frontend technologies like **HTML**, **CSS**, and **React.js**, and I'm exploring backend development with **Node.js** and **Express.js** to create dynamic and responsive applications. 
 
 ### 🔭 Currently Working On:
-- A **C Language Project** to strengthen my problem-solving skills.  
-- Developing a **Restaurant Website** for my wife's upcoming business with a modern and responsive design.  
+- A **C Language Project** to strengthen my problem-solving skills.   
 - A **Portfolio Microsite** featuring visitor interaction, admin panel, agent search with maps, and document verification.
 
 ### 🛠️ Completed Projects:
